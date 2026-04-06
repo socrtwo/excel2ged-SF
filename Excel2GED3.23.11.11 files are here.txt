@@ -1,0 +1,5 @@
+As Released: 
+Excel2GED3.23.11.11-Released.xlsb has the SampleFams1 listing copied to the ListPrep worksheet. 
+The path to the three Disney photos points to C:\Excel2GED. This must be changed if the files are stored elsewhere. 
+
+
