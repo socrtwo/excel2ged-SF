@@ -1,5 +1,10 @@
 # Excel to GEDCOM Converter
 
+<!--PAGES_LINK_BANNER-->
+> 🌐 **Live page:** [https://socrtwo.github.io/excel2ged-SF/](https://socrtwo.github.io/excel2ged-SF/)  
+> 📦 **Releases:** [github.com/socrtwo/excel2ged-SF/releases](https://github.com/socrtwo/excel2ged-SF/releases)
+<!--/PAGES_LINK_BANNER-->
+
 Converts genealogy data stored in Excel spreadsheets into standard GEDCOM format for import into genealogy software like Gramps, RootsMagic, or Ancestry.
 
 **Language:** VBA / Excel  
