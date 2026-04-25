@@ -1,6 +1,11 @@
 <!--MODERNIZED:v1-->
 # Excel2ged
 
+<!--PAGES_LINK_BANNER-->
+> 🌐 **Live page:** [https://socrtwo.github.io/excel2ged-SF/](https://socrtwo.github.io/excel2ged-SF/)  
+> 📦 **Releases:** [github.com/socrtwo/excel2ged-SF/releases](https://github.com/socrtwo/excel2ged-SF/releases)
+<!--/PAGES_LINK_BANNER-->
+
 > Migrated from SourceForge via SF2GH Migrator
 
 [![Live page](https://img.shields.io/badge/live-page-ff2e93?style=for-the-badge)](https://socrtwo.github.io/excel2ged-SF/)
