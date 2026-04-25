@@ -1,9 +1,18 @@
-# Excel to GEDCOM Converter
+<!--MODERNIZED:v1-->
+# Excel2ged
 
-<!--PAGES_LINK_BANNER-->
-> 🌐 **Live page:** [https://socrtwo.github.io/excel2ged-SF/](https://socrtwo.github.io/excel2ged-SF/)  
-> 📦 **Releases:** [github.com/socrtwo/excel2ged-SF/releases](https://github.com/socrtwo/excel2ged-SF/releases)
-<!--/PAGES_LINK_BANNER-->
+> Migrated from SourceForge via SF2GH Migrator
+
+[![Live page](https://img.shields.io/badge/live-page-ff2e93?style=for-the-badge)](https://socrtwo.github.io/excel2ged-SF/)
+[![Releases](https://img.shields.io/github/v/release/socrtwo/excel2ged-SF?style=for-the-badge&color=7c3aed)](https://github.com/socrtwo/excel2ged-SF/releases)
+[![License](https://img.shields.io/github/license/socrtwo/excel2ged-SF?style=for-the-badge&color=22d3ee)](https://github.com/socrtwo/excel2ged-SF/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/socrtwo/excel2ged-SF?style=for-the-badge&color=34d399)](https://github.com/socrtwo/excel2ged-SF/commits)
+
+🌐 **Live:** https://socrtwo.github.io/excel2ged-SF/  
+📦 **Downloads:** [Releases](https://github.com/socrtwo/excel2ged-SF/releases)  
+📂 **Source:** [socrtwo/excel2ged-SF](https://github.com/socrtwo/excel2ged-SF)
+
+---
 
 Converts genealogy data stored in Excel spreadsheets into standard GEDCOM format for import into genealogy software like Gramps, RootsMagic, or Ancestry.
 
@@ -55,3 +64,25 @@ Contributions are welcome! Feel free to:
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
+## 📜 SourceForge heritage
+
+This project originated on **SourceForge** before being migrated to GitHub. The legacy SourceForge entry, if still available, can be searched at:
+
+🔗 https://sourceforge.net/projects/excel2ged/
+
+The repository here at `socrtwo/excel2ged-SF` is the canonical, actively-maintained home. All future updates, issue tracking, and releases happen on GitHub.
+
+## 🛠️ Contributing
+
+Issues and pull requests are welcome at [https://github.com/socrtwo/excel2ged-SF/issues](https://github.com/socrtwo/excel2ged-SF/issues).
+
+## 📝 License
+
+See the [LICENSE](https://github.com/socrtwo/excel2ged-SF/blob/main/LICENSE) file in this repository. If no license file is present, the project is shared as-is for reference and personal use; please contact the maintainer for other use cases.
+
+---
+
+*Maintained by [@socrtwo](https://github.com/socrtwo)*
